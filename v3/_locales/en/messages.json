@@ -275,6 +275,33 @@
   "ui_networ_cors": {
     "message": "Bypass network CORS while searching (restart required)"
   },
+  "ui_and": {
+    "message": "AND"
+  },
+  "ui_or": {
+    "message": "OR"
+  },
+  "ui_operation": {
+    "message": "Logical operation (AND/OR) to require both width and height to match or allow either one to match."
+  },
+  "ui_allow_exchange": {
+    "message": "Flexible Orientation"
+  },
+  "ui_deny_exchange": {
+    "message": "Fixed Orientation"
+  },
+  "ui_exchange": {
+    "message": "Fixed Orientation: Keeps the width and height in their defined roles. Does not allow exchanging them.\nFlexible Orientation: Allows width and height to be exchanged, making the aspect ratio orientation independent."
+  },
+  "ui_profiles_title": {
+    "message": "All settings are automatically saved to the selected profile. You can create new profiles and switch between them to adjust configurations."
+  },
+  "ui_profile": {
+    "message": "Profile"
+  },
+  "ui_profiles_default": {
+    "message": "Default Profile"
+  },
   "options_title": {
     "message": "Options :: Download all Images"
   },
